@@ -1,0 +1,3 @@
+# AndroidLeftGallery
+
+Android中Gallery的Item默认是居中显示，如果要靠左显现则需要自定义Gallery，下面就是我显示的Demo，第一次贡献代码多多关照！
