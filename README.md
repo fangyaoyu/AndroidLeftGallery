@@ -9,5 +9,4 @@ Android中Gallery的Item默认是居中显示，如果要靠左显现则需要�
         android:layout_gravity="center" />
 ```
 ![](https://github.com/fangyaoyu/AndroidLeftGallery/blob/master/res/raw/1.jpg) 
-
-https://github.com/fangyaoyu/AndroidLeftGallery/blob/master/res/raw/2.jpg
+![](https://github.com/fangyaoyu/AndroidLeftGallery/blob/master/res/raw/2.jpg) 
